@@ -1,2 +1,2 @@
-# Rental-Apartment-backend
-Rental Apartment backend 
+# Apartment-Rental-backend
+Apartment Rental backend 
